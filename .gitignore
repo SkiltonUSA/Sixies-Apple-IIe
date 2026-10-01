@@ -1,0 +1,8 @@
+build/
+.tools/
+.tools
+.DS_Store
+__pycache__/
+*.pyc
+*.o
+/apple2/snapshot.png
